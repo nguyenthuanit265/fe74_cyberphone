@@ -1,1 +1,2 @@
-firt commit -> firsr push
+firt commit -> first push
+secon commit -> second push
